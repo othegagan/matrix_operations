@@ -1,8 +1,5 @@
-# matrix_operations
-Never hustle with Matrix Calculations..! Matrices are central to the study of linear algebra. They enable mathematicians work with many equations with multiple variable in a systematic way. Matrices are also easily readable by computerized systems.
-
 # Matrix Operations
-
+Never hustle with Matrix Calculations..! Matrices are central to the study of linear algebra. They enable mathematicians work with many equations with multiple variable in a systematic way. Matrices are also easily readable by computerized systems.
 Matrices are central to the study of linear algebra. They enable mathematicians to work with many equations with multiple variables in a systematic way. Matrices are also easily readable by computerized systems.
 
 ## The Problem
